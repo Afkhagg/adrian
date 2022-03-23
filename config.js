@@ -4,7 +4,7 @@
 
 
 let fs = require('fs')
-global.owner = ['6285713041886', '6285713041886','6285713041886', '6285713041886', '6285713041886'] // Letakan nomor kamu disini [put your number here bro]
+global.owner = ['601164504598', '601164504598','601164504598', '601164504598', '601164504598'] // Letakan nomor kamu disini [put your number here bro]
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -41,8 +41,8 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Fachri'
-global.author = 'Fachri Botz'
+global.packname = 'adrian'
+global.author = 'adrian Botz'
 
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
